@@ -5,6 +5,8 @@ This repository contains notebook for dragon and dinosaur classifier using CNN. 
 ### Requirments:
 
 You need to have the below librarais installed to be able to run the code:
-- Keras
-- Tensorflow
+- keras ( version: 2.9.0 )
+- tensorflow ( version: 2.9.2 )
+- matplotlib ( version : 3.5.2)
+
 
