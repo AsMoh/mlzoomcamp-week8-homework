@@ -1,6 +1,8 @@
 # mlzoomcamp-week8-homework 2022
 
-This repository contains notebook for dragon and dinosaur classifier using CNN. The datasets can bedonloded from the github link mentioned in the notebook.
+This repository contains notebook for dragon and dinosaur classifier using CNN. The datasets can be downloded from the github link mentioned in the notebook.
+
+<br>
 
 ### Requirments:
 
